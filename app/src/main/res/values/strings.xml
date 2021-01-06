@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MapleMobile</string>
+
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="popup_change_map_tv">Go where?</string>
+    <string name="popup_change_map_bt">Go</string>
+    <string name="loading_screen">Loading..</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="popup_inventory_title">Inventory</string>
+    <string name="popup_inventory_equip_btn">Equip</string>
+    <string name="popup_inventory_use_btn">Use</string>
+    <string name="popup_inventory_setup_btn">Set-Up</string>
+    <string name="popup_inventory_etc_btn">Etc</string>
+    <string name="popup_inventory_cash_btn">Cash</string>
+    <string name="gold_text">gold</string>
+
+    <string name="item_info_req_lvl">REQ LEV</string>
+    <string name="item_info_req_str">REQ STR</string>
+    <string name="item_info_req_dex">REQ DEX</string>
+    <string name="item_info_req_int">REQ INT</string>
+    <string name="item_info_req_luk">REQ LUK</string>
+    <string name="item_info_req_fame">REQ FAM</string>
+    <string name="item_info_category">CATEGORY:\ </string>
+    <string name="item_info_str">STR:  +</string>
+    <string name="item_info_dex">DEX:  +</string>
+    <string name="item_info_int">INT:  +</string>
+    <string name="item_info_luk">LUK:  +</string>
+    <string name="item_info_hp">HP:  +</string>
+    <string name="item_info_mp">MP:  +</string>
+    <string name="item_info_watk">WEAPON ATTACK:  +</string>
+    <string name="item_info_magic">MAGIC ATTACK:  +</string>
+    <string name="item_info_wdef">WEAPON DEF:  +</string>
+    <string name="item_info_mdef">MAGIC ATTACK:  +</string>
+    <string name="item_info_acc">ACCURACY:  +</string>
+    <string name="item_info_avoid">AVOIDABILITY:  +</string>
+    <string name="item_info_hands">HANDS:  +</string>
+    <string name="item_info_speed">SPEED:  +</string>
+    <string name="item_info_jump">JUMP:  +</string>
+
+    <string name="drop_action">Drop</string>
+    <string name="equip_action">Equip</string>
+    <string name="popup_equipped_title">Equipped</string>
+    <string name="connect_to_wifi_message">Make sure you are connected to wifi to download the files</string>
+    <string name="channel_name">Maple Mobile Notification</string>
+    <string name="channel_description">desc</string>
+    <string name="channel_id">MAPLEMOBILENOTIFICATION</string>
+</resources>
